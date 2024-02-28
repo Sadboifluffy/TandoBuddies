@@ -1,0 +1,26 @@
+{
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#141313"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe",
+    "paramCountry": "Italy",
+    "paramPrefix": "SF",
+    "paramNumber": "FLA",
+    "paramPostfix": "RE"
+  }
+}

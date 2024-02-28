@@ -1,0 +1,23 @@
+{
+  "carPaint": {
+    "color": "#FF8401A5",
+    "flakes": 0.98,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": true,
+    "colors": [
+      "#232222"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#2E2F30"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramNumber": "lion"
+  }
+}

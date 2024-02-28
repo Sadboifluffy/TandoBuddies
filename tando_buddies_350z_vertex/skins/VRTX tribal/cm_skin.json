@@ -1,0 +1,22 @@
+{
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#93080B"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  }
+}

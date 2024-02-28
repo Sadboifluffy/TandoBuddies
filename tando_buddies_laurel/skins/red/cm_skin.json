@@ -1,0 +1,17 @@
+{
+  "carPaint": {
+    "color": "#FF682328",
+    "flakes": 0.124,
+    "enabled": true
+  },
+  "licensePlate": {
+    "style": "Japan"
+  },
+  "windows": {
+    "alpha": 0.23,
+    "enabled": false,
+    "colors": [
+      "#293437"
+    ]
+  }
+}

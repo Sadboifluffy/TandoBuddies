@@ -1,0 +1,23 @@
+{
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#13D3C0"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#111111"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramNumber": "tman"
+  }
+}

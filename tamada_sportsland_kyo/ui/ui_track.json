@@ -1,0 +1,12 @@
+{
+	"name": "Tamada Sportsland",
+	"description": "By Geoffrey Maclean",
+	"tags" : ["circuit","mod","Japan","Drift","Kart"],
+	"geotags": ["34", "142"],
+	"country": "Japan",
+	"city": "Hiroshima Prefecture",
+	"length": "750 Meters",
+	"width": "8.5 Meters",
+	"pitboxes": "32",
+	"run": "Drifting"
+}

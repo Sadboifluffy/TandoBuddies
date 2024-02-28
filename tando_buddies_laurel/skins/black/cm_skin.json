@@ -1,0 +1,11 @@
+{
+  "carPaint": {
+    "color": "#FF0C0C0C",
+    "flakes": 0.64100000000000013,
+    "enabled": true
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramPrefecture": "三河"
+  }
+}

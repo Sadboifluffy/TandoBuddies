@@ -1,0 +1,25 @@
+{
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#2B0404"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe",
+    "paramPrefix": "sn",
+    "paramNumber": "ea",
+    "paramPostfix": "ky"
+  }
+}

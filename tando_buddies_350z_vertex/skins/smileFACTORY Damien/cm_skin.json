@@ -1,0 +1,23 @@
+{
+  "carPaint": {
+    "color": "#FFFFFFFF",
+    "flakes": 0.667,
+    "enabled": true
+  },
+  "carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#1C1B1B"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramNumber": "SFAC"
+  }
+}
